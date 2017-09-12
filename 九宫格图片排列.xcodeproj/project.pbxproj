@@ -15,6 +15,17 @@
 		388D83281F63C9250086D90F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 388D83261F63C9250086D90F /* LaunchScreen.storyboard */; };
 		388D83331F63C9250086D90F /* _______Tests.m in Sources */ = {isa = PBXBuildFile; fileRef = 388D83321F63C9250086D90F /* _______Tests.m */; };
 		388D833E1F63C9250086D90F /* _______UITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 388D833D1F63C9250086D90F /* _______UITests.m */; };
+		388D83561F63CA510086D90F /* 0.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 388D834C1F63CA510086D90F /* 0.jpg */; };
+		388D83571F63CA510086D90F /* 1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 388D834D1F63CA510086D90F /* 1.jpg */; };
+		388D83581F63CA510086D90F /* 2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 388D834E1F63CA510086D90F /* 2.jpg */; };
+		388D83591F63CA510086D90F /* 3.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 388D834F1F63CA510086D90F /* 3.jpg */; };
+		388D835A1F63CA510086D90F /* 4.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 388D83501F63CA510086D90F /* 4.jpg */; };
+		388D835B1F63CA510086D90F /* 5.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 388D83511F63CA510086D90F /* 5.jpg */; };
+		388D835C1F63CA510086D90F /* 6.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 388D83521F63CA510086D90F /* 6.jpg */; };
+		388D835D1F63CA510086D90F /* 7.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 388D83531F63CA510086D90F /* 7.jpg */; };
+		388D835E1F63CA510086D90F /* 8.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 388D83541F63CA510086D90F /* 8.jpg */; };
+		388D83621F63CA750086D90F /* UIViewExt.m in Sources */ = {isa = PBXBuildFile; fileRef = 388D83611F63CA750086D90F /* UIViewExt.m */; };
+		388D83651F63CAA50086D90F /* MPTalkListPhotosView.m in Sources */ = {isa = PBXBuildFile; fileRef = 388D83641F63CAA50086D90F /* MPTalkListPhotosView.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +62,19 @@
 		388D83391F63C9250086D90F /* 九宫格图片排列UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "九宫格图片排列UITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		388D833D1F63C9250086D90F /* _______UITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "_______UITests.m"; sourceTree = "<group>"; };
 		388D833F1F63C9250086D90F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		388D834C1F63CA510086D90F /* 0.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 0.jpg; sourceTree = "<group>"; };
+		388D834D1F63CA510086D90F /* 1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 1.jpg; sourceTree = "<group>"; };
+		388D834E1F63CA510086D90F /* 2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 2.jpg; sourceTree = "<group>"; };
+		388D834F1F63CA510086D90F /* 3.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 3.jpg; sourceTree = "<group>"; };
+		388D83501F63CA510086D90F /* 4.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 4.jpg; sourceTree = "<group>"; };
+		388D83511F63CA510086D90F /* 5.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 5.jpg; sourceTree = "<group>"; };
+		388D83521F63CA510086D90F /* 6.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 6.jpg; sourceTree = "<group>"; };
+		388D83531F63CA510086D90F /* 7.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 7.jpg; sourceTree = "<group>"; };
+		388D83541F63CA510086D90F /* 8.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 8.jpg; sourceTree = "<group>"; };
+		388D83601F63CA750086D90F /* UIViewExt.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UIViewExt.h; sourceTree = "<group>"; };
+		388D83611F63CA750086D90F /* UIViewExt.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = UIViewExt.m; sourceTree = "<group>"; };
+		388D83631F63CAA50086D90F /* MPTalkListPhotosView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MPTalkListPhotosView.h; sourceTree = "<group>"; };
+		388D83641F63CAA50086D90F /* MPTalkListPhotosView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MPTalkListPhotosView.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,6 +125,11 @@
 		388D83171F63C9250086D90F /* 九宫格图片排列 */ = {
 			isa = PBXGroup;
 			children = (
+				388D83631F63CAA50086D90F /* MPTalkListPhotosView.h */,
+				388D83641F63CAA50086D90F /* MPTalkListPhotosView.m */,
+				388D83601F63CA750086D90F /* UIViewExt.h */,
+				388D83611F63CA750086D90F /* UIViewExt.m */,
+				388D834B1F63CA510086D90F /* 图片 */,
 				388D831B1F63C9250086D90F /* AppDelegate.h */,
 				388D831C1F63C9250086D90F /* AppDelegate.m */,
 				388D831E1F63C9250086D90F /* ViewController.h */,
@@ -138,6 +167,22 @@
 				388D833F1F63C9250086D90F /* Info.plist */,
 			);
 			path = "九宫格图片排列UITests";
+			sourceTree = "<group>";
+		};
+		388D834B1F63CA510086D90F /* 图片 */ = {
+			isa = PBXGroup;
+			children = (
+				388D834C1F63CA510086D90F /* 0.jpg */,
+				388D834D1F63CA510086D90F /* 1.jpg */,
+				388D834E1F63CA510086D90F /* 2.jpg */,
+				388D834F1F63CA510086D90F /* 3.jpg */,
+				388D83501F63CA510086D90F /* 4.jpg */,
+				388D83511F63CA510086D90F /* 5.jpg */,
+				388D83521F63CA510086D90F /* 6.jpg */,
+				388D83531F63CA510086D90F /* 7.jpg */,
+				388D83541F63CA510086D90F /* 8.jpg */,
+			);
+			path = "图片";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -249,9 +294,18 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				388D835E1F63CA510086D90F /* 8.jpg in Resources */,
+				388D835D1F63CA510086D90F /* 7.jpg in Resources */,
+				388D835A1F63CA510086D90F /* 4.jpg in Resources */,
+				388D83581F63CA510086D90F /* 2.jpg in Resources */,
+				388D83561F63CA510086D90F /* 0.jpg in Resources */,
+				388D835B1F63CA510086D90F /* 5.jpg in Resources */,
+				388D835C1F63CA510086D90F /* 6.jpg in Resources */,
 				388D83281F63C9250086D90F /* LaunchScreen.storyboard in Resources */,
 				388D83251F63C9250086D90F /* Assets.xcassets in Resources */,
 				388D83231F63C9250086D90F /* Main.storyboard in Resources */,
+				388D83591F63CA510086D90F /* 3.jpg in Resources */,
+				388D83571F63CA510086D90F /* 1.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -276,6 +330,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				388D83651F63CAA50086D90F /* MPTalkListPhotosView.m in Sources */,
+				388D83621F63CA750086D90F /* UIViewExt.m in Sources */,
 				388D83201F63C9250086D90F /* ViewController.m in Sources */,
 				388D831D1F63C9250086D90F /* AppDelegate.m in Sources */,
 				388D831A1F63C9250086D90F /* main.m in Sources */,
@@ -427,6 +483,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				DEVELOPMENT_TEAM = PPXJK553U9;
 				INFOPLIST_FILE = "九宫格图片排列/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "mp.-------";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -439,6 +496,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				DEVELOPMENT_TEAM = PPXJK553U9;
 				INFOPLIST_FILE = "九宫格图片排列/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "mp.-------";
 				PRODUCT_NAME = "$(TARGET_NAME)";
